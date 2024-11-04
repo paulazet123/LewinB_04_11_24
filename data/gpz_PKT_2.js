@@ -1,0 +1,1 @@
+var json_gpz_PKT_2 = {"type":"FeatureCollection","name":"gpz_PKT_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","NAZWA":"LEWIN BRZESKI"},"geometry":{"type":"Point","coordinates":[17.580390239968704,50.727746724036216]}}]}
